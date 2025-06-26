@@ -59,7 +59,7 @@ const yash = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashag24&theme=tokyonight&hide_border=true" height="180"/>
+ <img src="https://streak-stats.demolab.com?user=yashag24&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
@@ -73,7 +73,6 @@ const yash = {
 [![theCARWAY](https://github-readme-stats.vercel.app/api/pin/?username=yashag24&repo=theCARWAY&theme=tokyonight&hide_border=true)](https://github.com/yashag24/theCARWAY)
 [![CineLog](https://github-readme-stats.vercel.app/api/pin/?username=yashag24&repo=CineLog&theme=tokyonight&hide_border=true)](https://github.com/yashag24/CineLog)
 [![QueryMate](https://github-readme-stats.vercel.app/api/pin/?username=yashag24&repo=QueryMate&theme=tokyonight&hide_border=true)](https://github.com/yashag24/QueryMate)
-[![OnDemand](https://github-readme-stats.vercel.app/api/pin/?username=yashag24&repo=OnDemand&theme=tokyonight&hide_border=true)](https://github.com/yashag24/OnDemand)
 [![CleanAlert](https://github-readme-stats.vercel.app/api/pin/?username=yashag24&repo=CleanAlert&theme=tokyonight&hide_border=true)](https://github.com/yashag24/CleanAlert)
 
 </div>
