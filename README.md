@@ -2,9 +2,8 @@
 # Hi there, I'm Yash Agarwal! 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=CSE+Student+%40+NIT+Jalandhar;Full+Stack+Developer;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=CSE+Student+%40+NIT+Jalandhar;Full+Stack+Developer;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
-
 ---
 
 ## 🚀 About Me
