@@ -2,7 +2,7 @@
 # Hi there, I'm Yash Agarwal! 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=CSE+Student+%40+NIT+Jalandhar;Full+Stack+Developer;Passionate+about+Building+and+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=CSE+Student+%40+NIT+Jalandhar;Full+Stack+Developer;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
 
 ---
@@ -54,7 +54,6 @@ const yash = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -66,14 +65,6 @@ const yash = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/><b>
-  </div>
-  
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashag24&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
