@@ -1,8 +1,11 @@
+
 # Hi there, I'm Yash Agarwal! 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=CSE+Student+%40+NIT+Jalandhar;Full+Stack+Developer;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=CSE+Student+%40+NIT+Jalandhar;Full+Stack+Developer;Passionate+about+Building+and+Learning!" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -15,19 +18,21 @@ const yash = {
     frontEnd: ["JavaScript", "React", "HTML5", "CSS3", "TypeScript"],
     backEnd: ["Node.js", "Python", "Express.js"],
     databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "VS Code", "Postman"],
-    cloudServices: ["AWS", "Vercel", "Netlify"],
+    tools: ["Git", "VS Code", "Postman" , "Github"],
   },
   funFact: "I debug with console.log() and I'm proud of it! 🐛",
 };
 ```
 
+🎯 **I love building, breaking, and learning by doing!**
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-
+### 🚀 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,37 +41,42 @@ const yash = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-
+### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Databases
-
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
- <img src="https://streak-stats.demolab.com?user=yashag24&theme=tokyonight&hide_border=true" height="180" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashag24&theme=tokyonight&hide_border=true" height="180" />
+
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-## 🏆 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -77,15 +87,17 @@ const yash = {
 
 </div>
 
-## 🎯 Current Goals
+---
 
-- 🔥 Contributing to Open Source projects
-- 🏗️ Building scalable full-stack applications
-- 🤝 Collaborating with fellow developers
-- 📈 Growing my GitHub contributions
+## 🎯 Current Goals
+- 🔥 Actively contributing to open-source projects
+- 🏗️ Building scalable, real-world full-stack applications
+- 🤝 Collaborating with developers & learning from the community
+- 📈 Growing my GitHub contribution graph 🌱
+
+---
 
 ## 📫 Let's Connect!
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yash-agarwal2403">
@@ -100,27 +112,26 @@ const yash = {
 
 </div>
 
-## 🎨 Fun Zone
+---
 
+## 🎨 Fun Zone
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashag24&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yashag24&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
+  
+  <br><br>
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b> – Cory House
 </div>
+
+---
 
 <div align="center">
 
-### Thanks for visiting! ⭐ Star some repositories if you find them interesting!
+### 🚀 Thanks for visiting! Don’t forget to ⭐ some repositories you like!
 
 </div>
