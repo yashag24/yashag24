@@ -65,7 +65,10 @@ const yash = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashag24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/><b>
+  </div>
+  
+<div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashag24&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
